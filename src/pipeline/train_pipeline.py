@@ -1,0 +1,1 @@
+# From this training pipeline, I'll try to trigger or call all the components
